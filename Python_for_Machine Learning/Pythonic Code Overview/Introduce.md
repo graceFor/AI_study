@@ -7,5 +7,9 @@
 ---
 
 - [x] Split & Join
+
+1. Split => String Type의 값을 나눠서 List 형태로 변환
+2. Join => String List를 합쳐 하나의 String으로 반환할 때 사용
+
 - [x] List Comprehension
 - [x] Enumerate & Zip
