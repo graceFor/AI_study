@@ -6,6 +6,6 @@
 
 ---
 
-- [x]Split & Join
-- [x]List Comprehension
-- [x]Enumerate & Zip
+- [x] Split & Join
+- [x] List Comprehension
+- [x] Enumerate & Zip
